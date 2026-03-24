@@ -1,0 +1,4 @@
+model,accuracy,precision,recall,f1_score,roc_auc,avg_precision,true_positives,true_negatives,false_positives,false_negatives,specificity
+random_forest,0.862,0.9128,0.7441,0.8198,0.935,0.9238,157,274,15,54,0.9481
+xgboost,0.834,0.8265,0.7678,0.7961,0.9235,0.9148,162,255,34,49,0.8824
+lightgbm,0.846,0.8317,0.7962,0.8136,0.922,0.9144,168,255,34,43,0.8824

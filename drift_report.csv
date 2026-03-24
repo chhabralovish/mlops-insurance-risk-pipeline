@@ -1,0 +1,15 @@
+feature,psi,psi_status,severity,ks_statistic,ks_p_value,drift_detected,ref_mean,cur_mean,ref_std,cur_std
+claim_amount_history,1.0558,Significant Drift,High,0.4308,0.0,True,1516.754,2211.3163,3412.2508,3431.3244
+coverage_amount,0.2313,Significant Drift,High,0.1644,0.0,True,222772.4228,263242.8976,203121.0415,204000.4113
+annual_income,0.0966,No Drift,Low,0.1172,0.0,True,68983.424,76417.8571,36586.0445,36752.6781
+years_with_insurer,0.0572,No Drift,Low,0.2292,0.0,True,4.4364,5.4088,4.824,4.8601
+debt_to_income,0.0563,No Drift,Low,0.0856,0.0,True,0.2845,0.3165,0.1603,0.1608
+bmi,0.0366,No Drift,Low,0.0928,0.0,True,26.0832,27.0873,4.9231,4.9426
+policy_duration_years,0.0305,No Drift,Low,0.0824,0.0,True,15.6896,17.4272,8.6011,8.6198
+credit_score,0.0295,No Drift,Low,0.086,0.0,True,680.8712,696.8837,78.7461,79.0261
+age,0.0242,No Drift,Low,0.0948,0.0,True,45.1344,47.9798,14.3503,14.4335
+num_dependents,0.0177,No Drift,Low,0.294,0.0,True,1.4208,1.6591,1.2168,1.2218
+num_policies,0.0046,No Drift,Low,0.3984,0.0,True,2.01,2.224,1.0678,1.0692
+previous_claims,0.0006,No Drift,Low,0.4284,0.0,True,0.8116,0.988,0.8927,0.897
+smoker,0.0,No Drift,Low,0.0,1.0,False,0.2488,0.2488,0.4323,0.4323
+chronic_conditions,0.0,No Drift,Low,0.0,1.0,False,0.7076,0.7076,0.9102,0.9102
